@@ -46,7 +46,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cotdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotdf@deno/mod.js';
+import cotdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotdf@v0.1.1-deno/mod.js';
 ```
 
 #### cotdf( x )
@@ -80,7 +80,7 @@ v = cotdf( NaN );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import cotdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotdf@deno/mod.js';
+import cotdf from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cotdf@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float32'
